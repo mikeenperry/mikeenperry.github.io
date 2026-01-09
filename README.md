@@ -1,3 +1,3 @@
 # mikeenperry.github.io
 
-Klik [hier](./game/) om mijn game te spelen
+Klik [hier](./space-invaders-clone-main/game/) om mijn game te spelen
